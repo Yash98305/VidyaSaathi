@@ -1,0 +1,80 @@
+export const JobsAPI = [
+    {
+        url: 'https://h1bdata.com/wp-content/uploads/2020/06/stonewain-systems-15930948954p8cl.jpg',
+        dep: 'Stonewain Systems',
+        title: 'Senior Java Engineer',
+        link: 'https://in.indeed.com/viewjob?jk=6abdbf3d9cf846d7&q=work%20from%20home&tk=1hascpvbclga5805&from=web%2CiaBackPress&advn=7356015601519757&adid=416703613&ad=-6NYlbfkN0A1B3whd5hQBR9mXJPrjYMZFkS4GcU2QWHwD8SxKqXIG-dgh9ry37plRWiwXwyUp7Phipcz1DmQ97AZNalnSdpvdxvS_TnRC9jAAjqQAog-CFG5CIVte_0o6CuvExjQKROx8iLDiGSPmCfaIuBHNPxlYksY1FAOiSOhJrEU0yKh6HumBxu8VXWJhGVNVXyKXMxU50Ng-OaevbhZb1pfXeA_3Pb7z1ZPcNfBuXkl6R1DCiVd7zXPjawfX06wz-dMeEpkXpgxOeAhS9_xDbz9GDbaJdjT7sZiDTRR5stdBramoQN_bfbEFNOoG_1dRN9AeZhOwaIqVNGA_CzGBV42IUkHbwgUkug2TVJa4GHpVHApGWUoaB1p3Fyyg4slr6wkzm1ATpS470GS7BQOUllhA7asnvp5JJMpplkkhUnVFCexnA%3D%3D&sjdu=VyNrwcfTK15LupteTX0rmX26CACnbeicpuaaObrj-ak&acatk=1hasevlfeg811800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDX-_M3KcRoL-QI6p0PbzkdCdPP&xpse=SoDs6_I3KcVxdCSFqh0JbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Pune, Maharashtra',
+        discription: "Excellent knowledge of Java and related frameworks such as Spring Boot.Experience working with RESTful API services.Extensive knowledge of RDBMS and NoSQL databases.",
+        Mystatus: 'Full-time',
+        mytxt: '100000 Rs./Month'
+    },
+    {
+        url: 'https://media.glassdoor.com/sqll/227136/lotus-interworks-squarelogo-1442229701393.png',
+        dep: 'Lotus Interworks Inc',
+        title: 'Sr. PHP Developer',
+        link: 'https://in.indeed.com/viewjob?jk=6505cb1953f062ce&q=work+from+home&tk=1hascpvbclga5805&from=web&advn=8632057022741255&adid=371415505&ad=-6NYlbfkN0CjxIkUAm65iVK7RcxY5YHJNYrhEaFD2dNZgDNct8duGogtqPpbETPtF06p2mjxMZQwiYOtPeRjwApB_u0PlwwU1t5XGbIFQ0EfX_N5T7drdsw4-J6znYtwKJPwzeMEGivLurMAMopBmU0Bz1pLW-391uU8pdQdlqnV81MnjbMRRJC7Pd4HWkpI0cb-s2ujFEjIc2RPTouwl3ddfzcdO-weK8OSJYcBP8qMaFVTf94OcigmJU2pb8HpgDg6PEgsFknKO5YrrjVfkpQdJiCafuL69NCNMmeoxhGZw5DtRjGL1QZ-eT0TFK55kdHmx8oBdcz9URThsJ_ry6GmxWGuLg4pxQUpU7On_dczraWnQjaXXD9nmY1YH1sB7_iCIMTcUeFsqDYh4Fb0B97_mWMsst35&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBw-_M3KcRoL-QI6p0KbzkdCdPP&xpse=SoDc6_I3Kcor-MwIwZ0JbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Mumbai, Maharashtra',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Full-time',
+        mytxt: '70000 Rs./Month'
+    },
+    {
+        url: 'https://www.tamilnaducareers.in/wp-content/uploads/2020/03/IIM-Trichy.jpg',
+        dep: 'Trichy Machine Tools',
+        title: 'Data Entry Operator',
+        link: 'https://in.indeed.com/viewjob?cmp=Trichy-Machine-Tools&t=Data+Entry+Clerk&jk=ec61edc144486d5e&xpse=SoA667I3KcWwfg31Lp0LbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Remote',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Full-time',
+        mytxt: '10000 Rs./Month'
+    },
+    {
+        url: 'https://i.vimeocdn.com/portrait/25736884_640x640',
+        dep: 'Learning Zone',
+        title: 'Tutors',
+        link: 'https://in.indeed.com/viewjob?cmp=Learning-Zone&t=Tutor&jk=974cb304e5ffa985&xpse=SoDm67I3KcXnGa31Dx0LbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Remote',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Part-time',
+        mytxt: '1000 Rs./Hour',
+    },
+    {
+        url: 'https://track2traininginstitute.files.wordpress.com/2020/06/women-empowerment-essay-and-speech.png',
+        dep: 'Women Empowerment',
+        title: 'Fresher Recruiter',
+        link: 'https://in.indeed.com/viewjob?cmp=Women-Emopwerment&t=Recruiter&jk=48e39d47813838da&xpse=SoBS67I3KcX-dkxryR0LbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Work from home',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Full-time',
+        mytxt: '26000 Rs./Month',
+    },
+    {
+        url: 'https://th.bing.com/th/id/OIP.WVeswII7vLL2gSGlAYzhPgAAAA?pid=ImgDet&rs=1',
+        dep: 'Visionary Hire',
+        title: 'Customer Care ',
+        link: 'https://in.indeed.com/viewjob?cmp=VisionaryHire&t=Customer+Care+Specialist&jk=fd22057a1179612d&xpse=SoCZ67I3KcoM65xioZ0LbzkdCdPP&vjs=3',
+        cat: 'edu',
+        location: 'Bengaluru',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Full-time',
+        mytxt: '16000 Rs./Month'
+    },
+    {
+        url: 'https://3.bp.blogspot.com/-ykIa5d0zqTE/WbJu73xgxwI/AAAAAAAAhmQ/qJz2wN3b6LQOc8DtykbW537jdf-1b4vjwCLcBGAs/s1600/dell%2Btechnologies.jpg',
+        dep: 'Dell Technologies',
+        title: 'Senior Engineer',
+        link: 'https://in.indeed.com/viewjob?jk=5516d3db5899db90&tk=1hasg53fkjrjn802&from=serp&vjs=3&advn=4081605532889204&adid=412092064&ad=-6NYlbfkN0BdeCH3wzlYpD364Be5JbcCJKJ8S-TlvC_iwEgvLx09tWQ-ln0ikKVjvb1wO6d-XRTOcTdyHfx5mUzDcE44DSnDXJDVdOvv0hojnL0oxpqI0u69Z-ED7fTNtQPfBtnaK_RyXKKILt69jdVQz45bleoSufdlmedV3-tpeLI6l-mSAJ-iV9wOryxFG3tRztc8EvR5ADLp6wLNV8aI44Nd9Rs05RHqklVp06C6nU__4tZByrEM_1XaOtZ6NGjlJAQN3OKFmslLRTmqLILpulYoNSvOBQxbZE-0vFkUeOVCUzINk8nbv0yFROUcKC_wNXNZEJpt93znEAhWme0lJtLHnoyCHp1jVNwOUjaGck3tmsbq4mVPDtTVc4lTyP5_UWct4mpb1tpE8AX4-1J7egCChf8f1BUPCQf2R-s=&xkcb=SoAE-_M3KcRoL-QI6p0GbzkdCdPP&xpse=SoCF6_I3KcobtPRigR0PbzkdCdPP&sjdu=teYnAu8OgCGxABCwWD3OBGSvNPsXXaEnWLrUq8268_Th4B3wmtI8hoaij4bqfo3y06GZrujHLwWJ9KVhF0zOj_MKcuaoFP1nYP03WHmnSHCDcNHirTl2x72HuQ1CfcY0G4AOttqkT0MnYGfY20gv8lUkebu4fZMHic4vYs7meB20mXNZQ7TxHXrbxiVlJrmFDK2DWdeoY5MEFY4lam251nHsVgjG8wxVq94MGLAIFJMef5cxyu422ZIBPtLCQ7OicOWC7iKSZkQ37CCOYAUJzQtjLYjSLgFEZnnwzCN6dAcJNs3kmTx7ZWWIkbXdZEMd6FP8FhKI0vg07WSzTsZb_m6qGmh8QDyG7QIAXlSmakLx5rEsZiYwTt3qOVDjTqENNDZv0iXfX1kgLDBUip1yGw',
+        cat: 'edu',
+        location: 'Bengaluru',
+        discription: 'Architect, develop and maintain rich & high performing web-applications/reusable 		modules using PHP web frameworks.',
+        Mystatus: 'Full-time',
+        mytxt: 'Flexible'
+    },
+
+]
